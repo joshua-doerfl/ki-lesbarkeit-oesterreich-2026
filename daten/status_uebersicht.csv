@@ -1,0 +1,15 @@
+﻿Status;Anzahl;Anteil;95-%-KI
+Ausgewertet;300;59,1 %;54,7–63,2 %
+Nicht erreichbar (Timeout, DNS, SSL-Fehler);78;15,4 %;12,5–18,7 %
+Sonstiges: kein oesterreichisches Merkmal;75;14,8 %;11,9–18,1 %
+Übersprungen: robots.txt verbietet Studien-Bot;11;2,2 %;1,2–3,8 %
+Gesperrt: Startseite liefert 403 (z. B. Firewall/Cloudflare);10;2,0 %;1,1–3,6 %
+Fehler: Startseite liefert 404;8;1,6 %;0,8–3,1 %
+Fehler: Startseite liefert 500;8;1,6 %;0,8–3,1 %
+Fehler: Startseite liefert 503;7;1,4 %;0,7–2,8 %
+Gesperrt: Startseite liefert 429;4;0,8 %;0,3–2,0 %
+Fehler: Startseite liefert 526;3;0,6 %;0,2–1,7 %
+Gesperrt: Startseite liefert 401;2;0,4 %;0,1–1,4 %
+Fehler: Startseite liefert 502;1;0,2 %;0,0–1,1 %
+Fehler: Startseite liefert 410;1;0,2 %;0,0–1,1 %
+Summe geprüfte Websites;508;100 %;
